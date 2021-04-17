@@ -1,0 +1,16 @@
+h8 {
+    color: #694200;
+    font-family: Arial;
+    font-size: 24px;
+}
+
+.styled-paragraph {
+    color: #133511;
+    font-family: 'Times New Roman';
+}
+
+#id-paragraph {
+    color: #230301;
+    font-family: cursive;
+    text-align: right;
+}
